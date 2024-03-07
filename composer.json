@@ -1,0 +1,19 @@
+{
+    "name": "waxedphp/minigrid",
+    "description": "Advanced views with mustache.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Waxedphp\\Minigrid\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Waxed"
+        }
+    ],
+    "require": {
+      "waxedphp/waxedphp":"^0.2.12"
+    }
+}
