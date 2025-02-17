@@ -1,3 +1,3 @@
 #!/bin/bash
 
-npm install --save minigrid
+npm install minigrid

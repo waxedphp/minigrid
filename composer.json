@@ -3,6 +3,7 @@
     "description": "Advanced views with mustache.",
     "type": "library",
     "license": "MIT",
+    "version": "0.2.7",
     "autoload": {
         "psr-4": {
             "Waxedphp\\Minigrid\\": "src"
@@ -14,6 +15,6 @@
         }
     ],
     "require": {
-      "waxedphp/waxedphp":"^0.2.12"
+      "waxedphp/waxedphp":"^0.2.7"
     }
 }
